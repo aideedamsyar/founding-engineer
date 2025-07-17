@@ -3,11 +3,11 @@ Essential Knowledge Map for Founding Engineers
 
 # 🧠 Essential Knowledge Map for Solo Founding Engineers
 
-This repo documents the **critical technical knowledge and architectural intuition** needed by a solo founding engineer to build, ship, and scale real-world products. It’s not about chasing every new framework — it’s about having just enough clarity, structure, and awareness to make confident decisions, move fast, and avoid catastrophic mistakes.
+This repo documents the **critical technical knowledge and architectural intuition** needed by a solo founding engineer to build, ship, and scale real-world products. It’s not about chasing every new framework but rather about having just enough clarity, structure, and awareness to make confident decisions, move fast, and avoid catastrophic mistakes.
 
 This map is based on hard-earned lessons, real-world solo product building, and distilled insights from senior engineers, startup CTOs, and modern DevOps workflows. It doesn't pretend you're working inside a FAANG team. It assumes you’re building alone — shipping code, running infra, handling auth, pushing fixes in production, and learning what matters as you go.
 
-This repo is a living knowledge scaffold. Over time, it will grow into a full learning system with code, notes, and examples — structured in a way that helps you build real intuition *while actually shipping features.*
+This repo is a living knowledge scaffold. Over time, it will grow into a full learning system with code, notes, and examples, structured in a way that helps you build real intuition *while actually shipping features.*
 
 ```mermaid
 flowchart TD
