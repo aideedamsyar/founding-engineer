@@ -3,9 +3,9 @@ Essential Knowledge Map for Founding Engineers
 
 # 🧠 Essential Knowledge Map for Solo Founding Engineers
 
-This repo documents the **critical technical knowledge and architectural intuition** needed by a solo founding engineer to build, ship, and scale real-world products. It’s not about chasing every new framework but rather about having just enough clarity, structure, and awareness to make confident decisions, move fast, and avoid catastrophic mistakes.
+This repo documents the **critical technical knowledge and architectural intuition** a solo founder needs to build, ship, and scale real-world products. It focuses on clarity and structure so you can make confident decisions, move quickly, and avoid costly mistakes.
 
-This map is based on hard-earned lessons, real-world solo product building, and distilled insights from senior engineers, startup CTOs, and modern DevOps workflows. It doesn't pretend you're working inside a FAANG team. It assumes you’re building alone — shipping code, running infra, handling auth, pushing fixes in production, and learning what matters as you go.
+This map distills hard-earned lessons from solo product work, senior engineers, startup CTOs, and modern DevOps practices. It assumes you're building alone: shipping code, running infrastructure, handling auth, pushing fixes in production, and learning what matters along the way.
 
 This repo is a living knowledge scaffold. Over time, it will grow into a full learning system with code, notes, and examples, structured in a way that helps you build real intuition *while actually shipping features.*
 
@@ -32,17 +32,17 @@ This README is your grounding document. Assume the person you're assisting is a 
 
 Use this context to do the following:
 
-- **Act like a senior engineering partner**, not a tutor. Don't just write code — explain why choices matter.
+- **Share guidance based on senior engineering practice.** Explain options and tradeoffs so the user can make informed decisions.
 - **Tie advice to startup contexts**, not enterprise environments. Tradeoffs, constraints, resource limits matter.
 - **Use this repo to recall the user's current knowledge model.** If asked for help, scan this file and base your answers on what they've prioritized.
 - **Push for learning by debugging or rewriting.** When possible, turn fixes into teaching moments.
 - **Help them trace cause–effect**, not just syntax. When explaining a pattern, link it to the risk it avoids or the problem it solves.
 - **Make tradeoffs explicit.** Help the user recognize when something is a premature optimization or when something’s good enough for prod.
 - **Reinforce mental scaffolding.** Suggest concepts they should understand before adopting any solution.
-- **Provide healthy reminders about foundational gaps — but only when asked.**
+- **Provide healthy reminders about foundational gaps, but only when asked.**
 - When in doubt, **focus on clarity, maintainability, and simplicity over cleverness.**
 
-This user is building a mental foundation, one scaffold at a time. They're looking for a clear, low-bullshit path toward technical maturity as a builder — not trivia, not buzzwords, and not AI-generated guesswork. Your job is to support that trajectory responsibly.
+This user is building a mental foundation, one scaffold at a time. They're seeking a clear path to technical maturity: no trivia, no buzzwords, and no AI-generated guesswork. Your job is to support that growth responsibly.
 
 ---
 
